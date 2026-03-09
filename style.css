@@ -1,0 +1,36 @@
+body {
+  margin:0;
+  padding:0;
+  background-color:lightgrey;
+}
+nav {
+  background-color:black;
+  height:50px;
+  font-size:20px;
+  display:flex;
+  justify-content:space-between;
+}
+nav a {
+  margin:auto;
+  text-decoration:none;
+  color:white;
+}
+nav a:link{
+  color:white;
+}
+nav a:visited{
+  color:grey;
+}
+nav a:hover{
+  color:yellow;
+}
+body {
+  font-size:20px;
+  color:DarkSlateGray;
+}
+b,h1,i,u,a{
+  color:black;
+}
+.galeria {
+  width:200px;
+}
